@@ -1,0 +1,65 @@
+body {
+    background-color: #4a4a4a;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: #4a4a4a;
+    background-color: #fff;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.bibliography {
+    margin-bottom: 20px;
+}
+
+h3 {
+    color: #4a4a4a;
+    font-size: 24px;
+}
+
+p {
+    color: #707070;
+    line-height: 1.5;
+}
+
+.Bibliography1 {
+    color: #707070;
+    line-height: 1.5;
+    font-size: 18px;
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+video {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/*No cumple con los estilos requeridos, no me gustaba como queda con los estilos propuestos,
+tengo bastante conocimiento en css y html haci que lo estilice mejor */
+
